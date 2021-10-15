@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/johnnywhom/DBeaver/mysql-connector-java-8.0.26 2/mysql-connector-java-8.0.26.jar"
+    ]
+}
